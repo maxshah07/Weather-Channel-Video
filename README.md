@@ -1,2 +1,3 @@
-# Weather-Channel-Video
-Short motion-graphics video demonstrating visual communication and timing.
+Video Link:
+
+https://youtu.be/NN2ztJU7phg
